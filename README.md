@@ -2,8 +2,8 @@
 ## Notes for our code: 
 Stage3_DataMiningProject.ipynb and Stage3_DataMiningProject.py are the same file, just different extension, for whatever works best for your machine. 
 Here is the link to the google colab: https://colab.research.google.com/drive/1_Juz-5R0GFC4k8vTD6K7qL3OjgmJkeyl?usp=sharing 
-Here is the link to the Github: 
-https://github.com/fiona1nicdao/DataMiningProject/tree/main 
+Here is the link to the Github: https://github.com/fiona1nicdao/DataMiningProject/tree/main 
+
 ## Loading datasets and preprocessing
 So to recap, our project is looking at how different factors affect one’s sleep. We use four datasets that look at sleep efficiency, lifestyle, productivity, and effect on sleep deprivation.
 ### Removing underage "samples"
